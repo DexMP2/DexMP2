@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DexMP2
 - 👀 I’m interested in Android-dev
 - 🌱 I’m currently learning Kotlin & Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @Dex_mp
+- 💞️ I’m looking to collaborate on my pet-project
+- 📫 How to reach me tg: @Dex_mp or vk @dexmp
 
 <!---
 DexMP2/DexMP2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
