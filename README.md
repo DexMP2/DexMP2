@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DexMP
 - 👀 I’m interested in Android-dev
 - 🌱 I’m currently learning Kotlin & Java
-- 💞️ I’m looking to collaborate on my pet-project
+- ❤️ I’m looking to collaborate on my pet-project
 - 📫 How to reach me tg: @Dex_mp or vk @dexmp
 
 <!---
